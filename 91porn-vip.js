@@ -3,7 +3,7 @@
 // @description  https://github.com/91p2022/91 解锁91pornVIP观看下载搜索限制,去除广告等,警告:本脚本无任何盈利方式,触犯某收费且含有监控追踪代码脚本,疯狂举报且用且珍惜,请保护好个人财产和隐私.
 // @copyright    @chunv_bot
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=91porn.com
-// @version      0.1
+// @version      0.2
 // @author       @chunv_bot
 // @license      AGPL-3.0-only
 // @homepageURL  https://t.me/chunvtgbot

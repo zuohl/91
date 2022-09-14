@@ -121,7 +121,7 @@ function Load_3U8Api()
 
           // 注入html
            let $section = document.createElement('section');
-          $section.innerHTML = '<!DOCTYPE html><html><head><meta charset="utf-8"></head><body><h1>脚本预注入成功，将当前页面网址发送<a href="https://t.me/chunv_bot" target="_blank" rel="noopener noreferrer">https://t.me/chunv_bot</a>至即可下载</h1><img src="https://dd-static.jd.com/ddimg/jfs/t1/116275/21/26636/117659/625ced50E7521f198/0b09220d167b59d2.png" width="50%" /></body>'
+          $section.innerHTML = '<!DOCTYPE html><html><head><meta charset="utf-8"></head><body><h1>脚本预注入成功，将当前页面网址发送<a href="https://t.me/allvip91" target="_blank" rel="noopener noreferrer">https://t.me/chunv_bot</a>至即可下载</h1><img src="https://dd-static.jd.com/ddimg/jfs/t1/116275/21/26636/117659/625ced50E7521f198/0b09220d167b59d2.png" width="50%" /></body>'
           $section.style.width = '100%'
           $section.style.height = '600px'
           $section.style.top = '0'
